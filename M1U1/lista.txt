@@ -1,6 +1,3 @@
 manzana
 pera
 uva
-pomelo
-mandarina
-quinoto
